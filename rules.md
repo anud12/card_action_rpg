@@ -1,9 +1,12 @@
-Rules for a card based action rpg
+# Rules for a card based action rpg
 
 - players each have a character
 - must achieve different objectives
 
-Turn Sequence
+
+
+
+## Turn Sequence
 
 - Start of Round - All enemies refresh their available actions.
 - Action Phase - Players take turns activating any character, one at a time:
