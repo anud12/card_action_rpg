@@ -16,6 +16,6 @@
 |-|-|-|
 |Loot Room | 1 | Gain 2 [loot]
 | Ambush | 1 | Draw 1 [hideout], and if it has any [enemy] they gain an extra turn
-| Booby-Trapped Passage | Test [initiative] and if fail draw 1 [hideout]
+| Booby-Trapped Passage | 1 | Test [initiative] and if fail draw 1 [hideout]
 | Skirmish | 1 | Draw 2 [enemy] in a line
 | Bed room | 1 | Draw 3 [enemy] in a line, players have an extra turn
